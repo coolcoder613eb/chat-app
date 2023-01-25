@@ -1,0 +1,61 @@
+[2023-01-25T21:34:24.437339 7476 ] === CCACHE 4.6 STARTED =========================================
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) absolute_paths_in_stderr = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) base_dir = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (environment) cache_dir = C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) compiler = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) compiler_check = mtime
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) compiler_type = auto
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) compression = true
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) compression_level = 0
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) cpp_extension = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) debug = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) debug_dir = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) depend_mode = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) direct_mode = true
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) disable = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) extra_files_to_hash = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) file_clone = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) hard_link = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) hash_dir = true
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) ignore_headers_in_manifest = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) ignore_options = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) inode_cache = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) keep_comments_cpp = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) limit_multiple = 0.8
+[2023-01-25T21:34:24.437339 7476 ] Config: (environment) log_file = C:\Users\tzema\DOWNLO~1\CHATAP~1\client_GUI.onefile-build\ccache-17316.txt
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) max_files = 0
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) max_size = 5.0G
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) namespace = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) path = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) pch_external_checksum = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) prefix_command = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) prefix_command_cpp = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) read_only = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) read_only_direct = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) recache = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) reshare = false
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) run_second_cpp = true
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) secondary_storage = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) stats = true
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) stats_log = 
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) temporary_dir = C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-25T21:34:24.437339 7476 ] Config: (default) umask = 
+[2023-01-25T21:34:24.438342 7476 ] Command line: C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\tzema\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\OnefileBootstrap.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_ONEFILE_MODE -I. -IC:\Users\tzema\DOWNLO~1\PYTHON~1.9\lib\SITE-P~1\nuitka\build\include -IC:\Users\tzema\DOWNLO~1\PYTHON~1.9\lib\SITE-P~1\nuitka\build\static_src -IC:\Users\tzema\DOWNLO~1\PYTHON~1.9\lib\SITE-P~1\nuitka\build\inline_copy\zstd static_src\OnefileBootstrap.c
+[2023-01-25T21:34:24.449347 7476 ] Hostname: LAPTOP-TD-613
+[2023-01-25T21:34:24.449347 7476 ] Working directory: C:/Users/tzema/DOWNLO~1/CHATAP~1/client_GUI.onefile-build
+[2023-01-25T21:34:24.449347 7476 ] Compiler type: gcc
+[2023-01-25T21:34:24.450368 7476 ] Source file: static_src\OnefileBootstrap.c
+[2023-01-25T21:34:24.450368 7476 ] Object file: static_src\OnefileBootstrap.o
+[2023-01-25T21:34:24.450368 7476 ] Trying direct lookup
+[2023-01-25T21:34:24.453207 7476 ] Retrieved e6a52vnir3njl7q9ikmnvt3iv9fei35ao from primary storage (C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/6/a52vnir3njl7q9ikmnvt3iv9fei35aoM)
+[2023-01-25T21:34:24.454156 7476 ] Looking for result key in C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/6/a52vnir3njl7q9ikmnvt3iv9fei35aoM
+[2023-01-25T21:34:24.546930 7476 ] Got result key from manifest
+[2023-01-25T21:34:24.546930 7476 ] Retrieved 06bek49iuv0f4gvg26j73qgkf0kn61k1k from primary storage (C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/6/bek49iuv0f4gvg26j73qgkf0kn61k1kR)
+[2023-01-25T21:34:24.547903 7476 ] Reading embedded entry #0 .o (538015 bytes)
+[2023-01-25T21:34:24.547903 7476 ] Writing to static_src\OnefileBootstrap.o
+[2023-01-25T21:34:24.548947 7476 ] Succeeded getting cached result
+[2023-01-25T21:34:24.549899 7476 ] Result: direct_cache_hit
+[2023-01-25T21:34:24.549899 7476 ] Result: primary_storage_hit
+[2023-01-25T21:34:24.549899 7476 ] Acquired lock C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/stats.lock
+[2023-01-25T21:34:24.552307 7476 ] Releasing lock C:\Users\tzema\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/stats.lock

@@ -1,0 +1,1 @@
+C:\Users\tzema\Downloads\python-3.10.9\python.exe -m nuitka client_GUI.py --standalone --onefile --disable-console --include-package-data=customtkinter -o chat.exe --enable-plugin=tk-inter --windows-icon-from-ico=icon.ico
