@@ -1,0 +1,1 @@
+/c/windows/system32/bash.exe -c "python3 server.py 613 & > ./pid; exit"
