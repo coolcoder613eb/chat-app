@@ -29,7 +29,7 @@ class Server:
             print("Binding socket")
             server_socket.bind((self.HOST, self.PORT))
             print("Initializing db")
-            self.db_name = None#chatdb.new_chat(server_socket.getsockname())
+            self.db_name = None #chatdb.new_chat(server_socket.getsockname())
             if (self.db_name != None):
                 print(f"DB initialized, Server name in DB:\n{self.db_name}")
             self.db_msg_count = 0
@@ -160,9 +160,11 @@ class Server:
 
 
 if __name__ == "__main__":
-    if (len(sys.argv) < 2) or (int(sys.argv[1]) > 65535 or  int(sys.argv[1]) < 1):
+    if len(sys.argv) < 2:
+        sys.argv.append('613')
+    if (int(sys.argv[1]) > 65535 or  int(sys.argv[1]) < 1):
         print("ERROR: Invalid arguments")
-        exit(1)
+        sys.exit(1)
 
     PORT = int(sys.argv[1])
     HOST = ""

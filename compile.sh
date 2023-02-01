@@ -1,0 +1,1 @@
+python3 -m nuitka client_GUI.py -o chat --standalone --onefile --disable-console --include-package-data=customtkinter --enable-plugin=tk-inter --include-data-dir=./customtkinter=./customtkinter

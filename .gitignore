@@ -1,0 +1,6 @@
+*.build/
+*.onefile-build/
+*.dist/
+build/
+dist/
+__pychache__/
